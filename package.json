@@ -1,0 +1,29 @@
+{
+	"name": "analogo-js-scraping",
+	"version": "1.0.0",
+	"description": "",
+	"main": "scraper.js",
+	"scripts": {
+		"lint": "eslint .",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/vicentematus/analogo-js-scraping.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/vicentematus/analogo-js-scraping/issues"
+	},
+	"homepage": "https://github.com/vicentematus/analogo-js-scraping#readme",
+	"dependencies": {
+		"puppeteer": "^13.0.1"
+	},
+	"devDependencies": {
+		"eslint": "^8.6.0",
+		"eslint-config-airbnb-base": "^15.0.0",
+		"eslint-plugin-import": "^2.25.3"
+	}
+}
