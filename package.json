@@ -18,6 +18,7 @@
 	},
 	"homepage": "https://github.com/vicentematus/analogo-js-scraping#readme",
 	"dependencies": {
+		"moment": "^2.29.1",
 		"puppeteer": "^13.0.1"
 	},
 	"devDependencies": {

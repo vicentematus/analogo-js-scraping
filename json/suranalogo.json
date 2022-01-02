@@ -1,91 +1,38 @@
-{
-	"name": "Sur Analogo",
-	"url": "https://www.suranalogo.cl/",
-	"films": [
-		{
-			"black_white": [
-				{
-					"name": "ROLLO ILFORD FP4 125 35MM - 36 EXP. BLANCO Y...",
-					"price": "$7.500 CLP",
-					"link": "https://suranalogo.cl/rollo-ilford-fp4-125-35mm-36-exp-blanco-y-negro"
-				},
-				{
-					"name": "ROLLO BLANCO Y NEGRO ILFORD HP5 400 PLUS 35MM -...",
-					"price": "$7.500 CLP",
-					"link": "https://suranalogo.cl/rollo-blanco-y-negro-ilford-hp5-400-plus-35mm-36-exp-1"
-				},
-				{
-					"name": "ROLLO PELÍCULA 35MM ILFORD DELTA 3200 BLANCO Y NEGRO 36...",
-					"price": "$11.500 CLP",
-					"link": "https://suranalogo.cl/rollo-pelicula-35mm-ilford-delta-3200-blanco-y-negro-36-exp-1"
-				},
-				{
-					"name": "ROLLO ILFORD ORTHO PLUS 35MM - 36 EXP. BLANCO Y...",
-					"price": "$11.000 CLP",
-					"link": "https://suranalogo.cl/rollo-ilford-ortho-plus-35mm-36-exp-blanco-y-negro-1-2"
-				},
-				{
-					"name": "ROLLO PELÍCULA 35MM ILFORD XP2 SUPER 400 BLANCO Y NEGRO...",
-					"price": "$8.600 CLP",
-					"link": "https://suranalogo.cl/rollo-pelicula-35mm-ilford-xp2-super-400-blanco-y-negro-36-exp-1"
-				},
-				{
-					"name": "ROLLO PELÍCULA 35MM ILFORD DELTA 100 BLANCO Y NEGRO 36...",
-					"price": "$9.500 CLP",
-					"link": "https://suranalogo.cl/rollo-pelicula-35mm-ilford-delta-100-blanco-y-negro-36-exp-1"
-				},
-				{
-					"name": "ROLLO PELÍCULA 35MM ILFORD DELTA 400 BLANCO Y NEGRO 36...",
-					"price": "$9.500 CLP",
-					"link": "https://suranalogo.cl/rollo-pelicula-35mm-ilford-delta-400-blanco-y-negro-36-exp-1"
-				},
-				{
-					"name": "ROLLO BLANCO Y NEGRO ILFORD PANF PLUS 50 - 35MM...",
-					"price": "$8.600 CLP",
-					"link": "https://suranalogo.cl/rollo-blanco-y-negro-ilford-panf-plus-50-35mm-36-exp"
-				},
-				{
-					"name": "ROLLO PELÍCULA FOTOGRÁFICA BLANCO Y NEGRO 35MM PAN 100 -...",
-					"price": "$6.000 CLP",
-					"link": "https://suranalogo.cl/rollo-pelicula-fotografica-blanco-y-negro-35mm-pan-100-36-exp-3"
-				},
-				{
-					"name": "ROLLO PELÍCULA FOTOGRÁFICA BLANCO Y NEGRO 35MM PAN 400 -...",
-					"price": "$6.200 CLP",
-					"link": "https://suranalogo.cl/rollo-pelicula-fotografica-blanco-y-negro-35mm-pan-400-36-exp"
-				},
-				{
-					"name": "ROLLO PELICULA FOTOGRAFICA BLANCO Y NEGRO 35MM KODAK TMAX 100...",
-					"price": "$11.700 CLP",
-					"link": "https://suranalogo.cl/rollo-pelicula-fotografica-blanco-y-negro-35mm-kodak-tmax-100-36-exp"
-				},
-				{
-					"name": "ROLLO PELÍCULA FOTOGRÁFICA BLANCO Y NEGRO 35MM KODAK TMAX 400...",
-					"price": "$11.700 CLP",
-					"link": "https://suranalogo.cl/rollo-pelicula-fotografica-blanco-y-negro-35mm-kodak-tmax-400-36-exp"
-				},
-				{
-					"name": "ROLLO PELÍCULA FOTOGRÁFICA BLANCO Y NEGRO 35MM KODAK TX 400...",
-					"price": "$13.500 CLP",
-					"link": "https://suranalogo.cl/rollo-pelicula-fotografica-blanco-y-negro-35mm-kodak-tx-400-36-exp"
-				},
-				{
-					"name": "ROLLO BLANCO Y NEGRO FOMAPAN 400 35MM - 36 EXP",
-					"price": "$6.900 CLP",
-					"link": "https://suranalogo.cl/rollo-blanco-y-negro-fomapan-400-35mm-36-exp"
-				},
-				{
-					"name": "ROLLO BLANCO Y NEGRO FOMAPAN 200 35MM - 36 EXP",
-					"price": "$6.500 CLP",
-					"link": "https://suranalogo.cl/rollo-blanco-y-negro-fomapan-400-35mm-36-exp-2"
-				},
-				{
-					"name": "ROLLO BLANCO Y NEGRO FOMAPAN 100 35MM - 36 EXP",
-					"price": "$6.500 CLP",
-					"link": "https://suranalogo.cl/rollo-blanco-y-negro-fomapan-100-35mm-36-exp"
-				}
-			]
-		},
-		{ "color": [] }
-	]
-}
+[
+	{
+		"name": "ROLLO ILFORD FP4 125 35mm - 36 exp. BLANCO Y NEGRO",
+		"brand": "ILFORD",
+		"description": "ROLLO ILFORD FP4 125 35mm , 36 exposiciones, BLANCO Y NEGRO\n\nVencimiento: NOV 2024\n\n\nDESCRIPCION Y USO\nILFORD FP4 Plus es una película con grano fino y velocidad media en blanco y negro. Esta nueva y mejorada versión remarca la calidad y reputación de ILFORD FP4. Al compararse con FP4, presenta un grano mas fino y tiempos de procesado más cortos.\nAl revelar la película con tiempos estándar presenta una velocidad de ISO 125/22° a luz de día. FP4 Plus presenta una emulsión muy fina que al combinarse con su grano fino y su latitud en exposición logra una excelente calidad , resulta ser la película ideal para utilizar en todo tipo de fotografía en interiores y exteriores\n\nPROCESADO EN TANQUE DE ESPIRAL\nLa agitación que se recomienda del tanque de espiral con productos químicos ILFORD es invertir el tanque cuatro veces durante los primeros 10 segundos y otra vez durante 10 segundos (cuatro inversiones) al principio de cada minuto siguiente. Utilice este método de agitación tanto para el revelador como para el fijador. Al final de cada secuencia de agitación, de un golpecito al tanque para liberar cualquier burbuja de aire.",
+		"price": "$7.500 CLP",
+		"currency": "CLP",
+		"SKU": null,
+		"stock": 0,
+		"time_stamp": "2022-01-02T17:23:48-03:00",
+		"condition": "https://schema.org/OfferItemCondition",
+		"seller": "Suranalogo"
+	},
+	{
+		"name": "PROMO: 3 c/u ROLLOS (CARGA) PELÍCULA BLANCO Y NEGRO 35mm - KENTMERE 100 24 exp",
+		"brand": "KENTMERE",
+		"description": "PROMO: 3 c/u ROLLOS (CARGA) PELÍCULA 35mm BLANCO Y NEGRO  - KENTMERE 100, 24 exp.\n\n\nVencimiento película: JULIO 2024\n\nNOTA IMPORTANTE: Las cargas son para usar en cámaras con ajuste manual de ASA, ya que se envasan en chasis reciclados a los cuales se les cubre código DX original. En caso de uso en cámaras automáticas o Point and shoot, sin ajuste manual de ASA, al no encontrar el código DX disponible, la cámara asignará ASA 100 (o la menor ASA que permita el fabricante de la cámara). Para rollos de 400 ASA, se recomienda usar rollos originales para evitar que la cámara asigne 100 ASA.",
+		"price": "$10.000 CLP",
+		"currency": "CLP",
+		"SKU": null,
+		"stock": "7",
+		"time_stamp": "2022-01-02T17:23:48-03:00",
+		"condition": "https://schema.org/OfferItemCondition",
+		"seller": "Suranalogo"
+	},
+	{
+		"name": "ROLLO ILFORD FP4 125 35mm - 36 exp. BLANCO Y NEGRO",
+		"brand": "ILFORD",
+		"description": "ROLLO ILFORD FP4 125 35mm , 36 exposiciones, BLANCO Y NEGRO\n\nVencimiento: NOV 2024\n\n\nDESCRIPCION Y USO\nILFORD FP4 Plus es una película con grano fino y velocidad media en blanco y negro. Esta nueva y mejorada versión remarca la calidad y reputación de ILFORD FP4. Al compararse con FP4, presenta un grano mas fino y tiempos de procesado más cortos.\nAl revelar la película con tiempos estándar presenta una velocidad de ISO 125/22° a luz de día. FP4 Plus presenta una emulsión muy fina que al combinarse con su grano fino y su latitud en exposición logra una excelente calidad , resulta ser la película ideal para utilizar en todo tipo de fotografía en interiores y exteriores\n\nPROCESADO EN TANQUE DE ESPIRAL\nLa agitación que se recomienda del tanque de espiral con productos químicos ILFORD es invertir el tanque cuatro veces durante los primeros 10 segundos y otra vez durante 10 segundos (cuatro inversiones) al principio de cada minuto siguiente. Utilice este método de agitación tanto para el revelador como para el fijador. Al final de cada secuencia de agitación, de un golpecito al tanque para liberar cualquier burbuja de aire.",
+		"price": "$7.500 CLP",
+		"currency": "CLP",
+		"SKU": null,
+		"stock": 0,
+		"time_stamp": "2022-01-02T17:23:48-03:00",
+		"condition": "https://schema.org/OfferItemCondition",
+		"seller": "Suranalogo"
+	}
+]

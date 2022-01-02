@@ -1,6 +1,6 @@
 {
 	"name": "String",
-	"Store": "String",
+	"store": "String",
 	"category": "String",
 	"url": "String",
 	"key/id": "String",
@@ -17,5 +17,10 @@
 	"review_count": "Number",
 	"review_avg_rating": "Number",
 	"seller": "String",
-	"specs": {}
+	"specs": {
+		"iso": 400,
+		"formats": [135, 120],
+		"type": "color",
+		"replacedBy": null
+	}
 }
