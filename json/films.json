@@ -1,0 +1,28 @@
+[
+	{
+		"make": "Kodak",
+		"date": "",
+		"process": "",
+		"name": "Kodak Portra 400",
+		"description": "",
+		"iso": 400,
+		"type": "color",
+		"origin": "USA",
+		"formats": [135, 120],
+		"replacedBy": null,
+		"options": []
+	},
+	{
+		"make": "Kodak",
+		"date": "",
+		"process": "",
+		"name": "Kodak Portra 400",
+		"description": "",
+		"iso": 400,
+		"type": "color",
+		"origin": "USA",
+		"formats": [135, 120],
+		"replacedBy": null,
+		"options": []
+	}
+]
