@@ -1,0 +1,42 @@
+{
+	"url": "https://publicapi.solotodo.com/entities/466430/",
+	"id": 466430,
+	"name": "LENOVO IDEAPAD GAMING 3 / AMD RYZEN 5 / 8GB RAM / 512GB SSD / NVIDIA GEFORCE GTX 1650 / 15.6\"",
+	"cell_plan_name": null,
+	"store": "https://publicapi.solotodo.com/stores/18/",
+	"category": "https://publicapi.solotodo.com/categories/1/",
+	"sku": "2000380454637P",
+	"external_url": "https://simple.ripley.cl/lenovo-ideapad-gaming-3-amd-ryzentm-5-8gb-ram-512gb-ssd-nvidia-geforce-gtx-1650-156-2000380454637p",
+	"condition": "https://schema.org/NewCondition",
+	"part_number": null,
+	"ean": null,
+	"is_visible": true,
+	"active_registry": {
+		"url": "https://publicapi.solotodo.com/entity_histories/224059578/",
+		"id": 224059578,
+		"entity": "https://publicapi.solotodo.com/entities/466430/",
+		"timestamp": "2022-01-02T04:55:58.191110Z",
+		"is_available": true,
+		"normal_price": "729990.00",
+		"offer_price": "689990.00",
+		"cell_monthly_payment": null
+	},
+	"product": {
+		"url": "https://publicapi.solotodo.com/products/85854/",
+		"id": 85854,
+		"name": "Lenovo IdeaPad Gaming 3 15ARH05 [82EY0017CL]"
+	},
+	"cell_plan": null,
+	"bundle": null,
+	"currency": "https://publicapi.solotodo.com/currencies/1/",
+	"description": null,
+	"picture_urls": [
+		"https://home.ripley.cl/store/Attachment/WOP/D113/2000380454637/2000380454637_2.jpg"
+	],
+	"key": "2000380454637P",
+	"seller": null,
+	"scraped_condition": "https://schema.org/NewCondition",
+	"creation_date": "2020-11-11T04:14:32.053821Z",
+	"last_updated": "2022-01-02T06:12:11.386875Z",
+	"last_pricing_update": "2022-01-02T06:12:11.366472Z"
+}

@@ -1,0 +1,8 @@
+{
+	"url": "https://publicapi.solotodo.com/categories/1/",
+	"id": 1,
+	"name": "Notebooks",
+	"slug": "notebooks",
+	"budget_ordering": null,
+	"permissions": ["view_category"]
+}

@@ -1,0 +1,21 @@
+{
+	"name": "String",
+	"Store": "String",
+	"category": "String",
+	"url": "String",
+	"key/id": "String",
+	"stock": "Number",
+	"price": "Number",
+	"offer_price": "Number",
+	"currency": "String",
+	"sku": "String",
+	"description": "String",
+	"picture_urls": ["String"],
+	"video_urls": ["String"],
+	"timestamp": "String",
+	"condition": "String",
+	"review_count": "Number",
+	"review_avg_rating": "Number",
+	"seller": "String",
+	"specs": {}
+}

@@ -1,0 +1,47 @@
+{
+	"url": "https://publicapi.solotodo.com/entities/475271/",
+	"id": 475271,
+	"name": "Lenovo Notebook Gaming 3 15ARH05 Ryzen5 3.0GHz /8GB / 512GB SSD / 15.6\" FHD / GTX 1650 4GB",
+	"cell_plan_name": null,
+	"store": "https://publicapi.solotodo.com/stores/43/",
+	"category": "https://publicapi.solotodo.com/categories/1/",
+	"sku": "1093392",
+	"external_url": "https://www.lider.cl/product/sku/1093392",
+	"condition": "https://schema.org/NewCondition",
+	"part_number": "Gaming 3 15ARH05",
+	"ean": "0195042557534",
+	"is_visible": true,
+	"active_registry": {
+		"url": "https://publicapi.solotodo.com/entity_histories/224011148/",
+		"id": 224011148,
+		"entity": "https://publicapi.solotodo.com/entities/475271/",
+		"timestamp": "2022-01-02T04:49:49.238367Z",
+		"is_available": true,
+		"normal_price": "699990.00",
+		"offer_price": "699990.00",
+		"cell_monthly_payment": null
+	},
+	"product": {
+		"url": "https://publicapi.solotodo.com/products/85854/",
+		"id": 85854,
+		"name": "Lenovo IdeaPad Gaming 3 15ARH05 [82EY0017CL]"
+	},
+	"cell_plan": null,
+	"bundle": null,
+	"currency": "https://publicapi.solotodo.com/currencies/1/",
+	"description": "## \n\n  * ![](https://images.lider.cl/wmtcl?source=url\\[file:long-description/LD_1093392.jpg\\]&sink=format\\[jpg\\])\n\n\n",
+	"picture_urls": [
+		"https://images.lider.cl/wmtcl?source=url[file:/productos/1093392a.jpg]&sink",
+		"https://images.lider.cl/wmtcl?source=url[file:/productos/1093392b.jpg]&sink",
+		"https://images.lider.cl/wmtcl?source=url[file:/productos/1093392c.jpg]&sink",
+		"https://images.lider.cl/wmtcl?source=url[file:/productos/1093392d.jpg]&sink",
+		"https://images.lider.cl/wmtcl?source=url[file:/productos/1093392e.jpg]&sink",
+		"https://images.lider.cl/wmtcl?source=url[file:/productos/1093392f.jpg]&sink"
+	],
+	"key": "1093392",
+	"seller": null,
+	"scraped_condition": "https://schema.org/NewCondition",
+	"creation_date": "2020-11-28T03:46:25.638707Z",
+	"last_updated": "2022-01-02T05:00:57.011288Z",
+	"last_pricing_update": "2022-01-02T05:00:56.979468Z"
+}
